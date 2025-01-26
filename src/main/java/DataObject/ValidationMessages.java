@@ -1,3 +1,5 @@
+package DataObject;
+
 public class ValidationMessages {
     public static String MessageForPassword = "Passwords must have at least one non alphanumeric character, one digit ('0'-'9')," +
             " one uppercase ('A'-'Z'), one lowercase ('a'-'z')," +

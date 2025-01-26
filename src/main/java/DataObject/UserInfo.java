@@ -1,3 +1,5 @@
+package DataObject;
+
 public interface UserInfo {
     String
             userName1 = "RUSA2000",

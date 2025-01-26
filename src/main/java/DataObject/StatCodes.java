@@ -1,7 +1,9 @@
+package DataObject;
+
 public enum StatCodes {
-    SUCCESS_200(200),
-    CREATED_201(201),
-    BED_REQUEST_400(400);
+    OK200(200),
+    Created201(201),
+    BadReq400(400);
     private final int value;
 
     StatCodes(int value) {
